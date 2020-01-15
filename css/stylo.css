@@ -1,0 +1,40 @@
+.form_izq{
+    border: 1px solid black;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 0;
+    flex-wrap: wrap;
+    width: 50vw;
+}
+
+.cont_full{
+    border: 1px solid black;
+    justify-content: center;
+    align-content: center;
+    width: 80vw;
+ padding: 25px;
+ border-radius: 37px;
+
+}
+
+.input_buscar{
+    border-radius: 1.25rem !important;
+    box-shadow: 1px 3px 0px 0px #607D8B;
+    
+}
+.cont{
+    display: flex;
+    height: 100vh;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cont_izq{
+margin: 0 auto;
+}
+.btn_agregar{
+    width: 35%;
+    padding: 4px;
+
+}
